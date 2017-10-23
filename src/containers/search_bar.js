@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 
 export default class SearchBar extends Component {
-redner(){
+render(){
   return (
     <form className = "input-group">
       <input />
