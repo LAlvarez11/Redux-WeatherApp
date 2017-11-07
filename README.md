@@ -1,7 +1,7 @@
 # About
 The purpose with this project was to use the Redux framework and React 
-togther and get familiar with the both the frameworks. The web app itself displays charts
-showing the tempature, humidty, and pressure for a city you search for.
+togther and get familiar with both the frameworks. The web app itself displays charts
+for the tempature, humidty, and pressure for a city you search for.
 
 # To Run
 In your terminal change directories to where you cloned or
