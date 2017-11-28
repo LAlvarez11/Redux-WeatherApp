@@ -7,8 +7,8 @@
   "homepage": "https://lalvarez11.github.io/Redux-WeatherApp",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
+    "deploy": "gh-pages -d build ",
+    "build": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch"
   },
